@@ -33,3 +33,6 @@ exactamente una vez nada más.
 
 Para obtener resultados de este algoritmo se le debe proporcionar el nombre del grafo y el vértice inicial.
 Al final se obtiene un String que dice si el grafo tiene o no ciclo Hamiltoniano, y si tiene imprime el ciclo iniciando y terminando en el vértice que se proporcionó.
+
+Nota final: Cuando se cierra la ventana de la imagen del grafo solo se esconde ya que se tiene comentado la parte de app.setDefaultCloseOperation y por default usa la opción
+HIDE_ON_CLOSE.
