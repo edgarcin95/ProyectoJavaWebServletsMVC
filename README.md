@@ -1,5 +1,5 @@
 # ProyectoJavaWebServletsMVC
-Este fué mi proyecto de Programación avanzada de la Maestría en Ciencia e Ingeniería de la Computación.
+Este fué mi proyecto de Programación avanzada de la Maestría en Ciencia e Ingeniería de la Computación en la UNAM.
 Es un proyecto Web hecho en lenguaje Java con el IDE Netbeans, para abrir el proyecto se debe importar el .zip desde Netbeans.
 
 Los algoritmos consisten en problemas con teoría de Gráficos, Depth First Search y encotrar un ciclo Hamiltoniano.
